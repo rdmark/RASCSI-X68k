@@ -1,3 +1,6 @@
+# NOTICE
+This repo will be archived in favor of https://github.com/RaSCSI/RaSCSI
+
 # RASCSI-X68k
 RaSCSI allows a Raspberry Pi to function as emulated SCSI or SASI devices (hard disk, CD-ROM, magneto-optical, and others) for computers with a SCSI or SASI controller. It consists of a hardware and a software component. The hardware component is an interface board, or simple pass-through cable, that allows software running on a Raspberry Pi to emulate a range of SCSI devices. The RaSCSI is then connected to the computer via the external or internal SCSI interface and recognized as one or more SCSI devices by the host OS.
 
